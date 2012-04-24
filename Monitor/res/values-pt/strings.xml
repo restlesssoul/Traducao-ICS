@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Monitor</string>
+    <string name="duration" formatted="false">Duração: %d/%d/%d - %d/%d/%d</string>
+    <string name="auto_turn_off_mobile">Desligar tráfego de dados automaticamente</string>
+    <string name="menu_refresh">Atualizar</string>
+    <string name="menu_sort_by_name">Ordenar por Nome</string>
+    <string name="menu_sort_by_traffic">Ordenar por Tráfego</string>
+    <string name="menu_display_system_app">Exibir aplicativos de sistema</string>
+    <string name="menu_not_display_system_app">Ocultar aplicativos de sistema</string>
+    <string name="input_max_traffic">Cota de dados</string>
+    <string name="input_warning_traffic">Nível de alerta(MB)</string>
+    <string name="max_traffic_monthly">Cota mensal máxima para dados 2G/3G</string>
+    <string name="monitor_starting_day">Dia inicial</string>
+    <string name="date_format">Dia %s</string>
+    <string name="traffic_none">Nenhum</string>
+    <string name="version_text">Versão: %1$s</string>
+    <string name="duration_days" formatted="false">%d dias %d horas %d minutos</string>
+    <string name="duration_hours" formatted="false">%d horas %d minutos</string>
+    <string name="duration_minutes">%d minutos</string>
+    <string name="traffic_data">Tráfego</string>
+    <string name="remain">" Restando "</string>
+    <string name="threshold">" Aviso "</string>
+    <string name="used">Usado "</string>
+    <string name="exceed">" Excedente "</string>
+    <string name="settings">Configurar</string>
+    <string name="mobile">2G/3G</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="mobile_format">2G/3G:%s</string>
+    <string name="wifi_format">WIFI:%s</string>
+    <string name="mobile_traffic">Dados 2G/3G disponíveis</string>
+    <string name="network_control">Controle de Rede</string>
+    <string name="network_monitor">Firewall</string>
+    <string name="all_apps">Todos os programas</string>
+    <string name="refresh">Atualizar</string>
+    <string name="display_system_app">Exibir aplicativos de sistema</string>
+    <string name="force_stop">Forçar parada</string>
+    <string name="app_detail">Detalhes do programa</string>
+    <string name="app_detail_control">Controle de dados</string>
+    <string name="loading_apps_list">Carregando lista de aplicativos...</string>
+    <string name="apply_rules_failed_known">Conhecido</string>
+    <string name="apply_rules_failed">Falha no aplicativo, tente novamente mais tarde.</string>
+    <string name="monitor_settings">Configurações</string>
+    <string name="process_kernel_label">Android OS</string>
+    <string name="tether_settings_title_usb">Compartilhamento USB</string>
+    <string name="tether_settings_title_wifi">Hotspot Portátil</string>
+    <string name="tether_settings_title_bluetooth">Compartilhamento bluetooth</string>
+    <string name="tether_settings_title_usb_bluetooth">Compartilhamento de rede</string>
+    <string name="tether_settings_title_all">Compartilhamento de rede e Hotspot Portátil</string>
+    <string name="data_usage_uninstalled_apps">Aplicativo excluído</string>
+    <string name="data_usage_cycle_editor_subtitle">Data：</string>
+    <string name="data_usage_cycle_editor_positive">Definido</string>
+    <string name="data_usage_label_foreground">Executando:%s</string>
+    <string name="data_usage_label_background">Serviços:%s</string>
+    <string name="data_usage_restrict_background">Restringir dados de segundo plano</string>
+    <string name="data_usage_restrict_background_help">Para definir o limite do uso de dados móveis em segundo plano</string>
+    <string name="data_usage_restrict_background_title">Limitar dados de segundo plano?</string>
+    <string name="data_usage_restrict_background_summary">Ao ativar este serviço, apenas redes Wi-Fi utilizarão os serviços de dados em segundo plano. alguns aplicativos que exijam os dados de segundo plano ativados poderão não funcionar corretamente.</string>
+    <string name="data_usage_app_restrict_dialog">"Na ausência de uma conexão Wi-Fi válida, este recurso poderá utilizar a rede de dados móveis se esta não estiver desativada.
+
+Você pode definir o fluxo de dados ideal para utilização da rede de dados móveis em cada aplicativo."</string>
+</resources>

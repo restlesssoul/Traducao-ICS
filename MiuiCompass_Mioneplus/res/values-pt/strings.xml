@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_label">Bússola</string>
+    <string name="getting_location">Obtendo localização...</string>
+    <string name="cannot_get_location">Não foi possivel obter a sua localização</string>
+    <string name="location_north">%s N</string>
+    <string name="location_south">%s S</string>
+    <string name="location_east">%s E</string>
+    <string name="location_west">%s W</string>
+    <string name="menu_calibrate">Calibrar</string>
+    <string name="dialog_title">Cancelar calibração</string>
+    <string name="dialog_content">A bússola não finalizou a calibração, o que pode resultar em dados imprecisos. Tem certeza que deseja cancelar?</string>
+    <string name="calibrate_success">Calibração concluída</string>
+    <string name="user_guide_calibrate">Pressione MENU para calibrar a bússola</string>
+    <string name="toast_accuracy_low">"Precisão da bússola baixa.
+Pressione MENU para calibrá-la."</string>
+</resources>

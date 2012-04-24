@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Feedback</string>
+    <string name="user_feedback">Feedback</string>
+    <string name="user_feedback_preview">Visualização do Feedback</string>
+    <string name="report_miui">Enviar à MIUI</string>
+    <string name="menu_send">Enviar</string>
+    <string name="menu_preview">Visualizar</string>
+    <string name="section_feedback">Feedback</string>
+    <string name="section_privacy">Privacidade</string>
+    <string name="description">Descrição (requerido)</string>
+    <string name="privacy_system_log">Incluir dados do sistema</string>
+    <string name="privacy_system_log_desc">Compartilha dados do sistema com a MIUI, para disgnóstico mais rápido do problema</string>
+    <string name="privacy_screenshot">Incluir screenshot</string>
+    <string name="privacy_screenshot_desc">Envia uma screenshot que selecionar</string>
+    <string name="privacy_bugreport">Incluir log do sistema</string>
+    <string name="privacy_bugreport_desc">Envia o log de depuração do aparelho para investigação de problemas relacionados a hardware do aparelho</string>
+    <string name="msg_generate_bugreport">Gerando log de depuração ...</string>
+    <string name="msg_packaging_report">Gerando feedback do usuário ...</string>
+    <string name="info_board">Sistema</string>
+    <string name="info_brand">Marca</string>
+    <string name="info_buildid">Build</string>
+    <string name="info_buildtype">Tipo</string>
+    <string name="info_codename">Codinome</string>
+    <string name="info_device">Aparelho</string>
+    <string name="info_incremental">Versão Incremental</string>
+    <string name="info_model">Modelo</string>
+    <string name="info_networkname">Operadora</string>
+    <string name="info_networktype">Tipo de Rede</string>
+    <string name="info_phonetype">Tipo de Telefone</string>
+    <string name="info_product">Produto</string>
+    <string name="info_release">Release</string>
+    <string name="info_timestamp">Data</string>
+    <string name="info_uilanguage">Linguagem</string>
+    <string name="info_runningapp">Aplicativos em execução</string>
+    <string name="info_description">Descrição</string>
+    <string name="info_systemlog">LOG do sistema</string>
+    <string name="info_screenshot">Screenshot</string>
+    <string name="info_section_feedback">Feedback do usuário</string>
+    <string name="info_section_network">Rede</string>
+    <string name="info_section_system">Sistema</string>
+    <string name="info_section_screenshot">Screenshot</string>
+    <string name="toast_description_required">A descrição do Feedback não pode estar vazia</string>
+    <string name="toast_description_length_too_short">A descrição do Feedback deve possuir no minimo 10 caracteres</string>
+</resources>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Feliz</item>
+        <item>Triste</item>
+        <item>Piscando</item>
+        <item>Mostrando a língua</item>
+        <item>Surpreso</item>
+        <item>Beijando</item>
+        <item>Gritando</item>
+        <item>Tranquilo</item>
+        <item>Louco por dinheiro</item>
+        <item>Falei besteira</item>
+        <item>Envergonhado</item>
+        <item>Anjo</item>
+        <item>Indeciso</item>
+        <item>Chorando</item>
+        <item>Boca fechada</item>
+        <item>Rindo</item>
+        <item>Confuso</item>
+        <item>Coração</item>
+        <item>Louco</item>
+        <item>Sorriso forçado</item>
+        <item>Indiferente</item>
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>Uma vez</item>
+        <item>Duas vezes</item>
+        <item>Três vezes</item>
+        <item>Cinco vezes</item>
+        <item>Dez vezes</item>
+    </string-array>
+    <string-array name="prefValues_ringtone_repeat">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Nome</item>
+        <item>Apelido</item>
+        <item>Telefone</item>
+        <item>E-mail</item>
+        <item>Organização</item>
+        <item>MI</item>
+        <item>Telefone IP</item>
+        <item>Aniversário</item>
+        <item>Website</item>
+        <item>Endereço</item>
+        <item>Anotação</item>
+    </string-array>
+    <string-array name="contact_values">
+        <item>vnd.android.cursor.item/name</item>
+        <item>vnd.android.cursor.item/nickname</item>
+        <item>vnd.android.cursor.item/phone_v2</item>
+        <item>vnd.android.cursor.item/email_v2</item>
+        <item>vnd.android.cursor.item/organization</item>
+        <item>vnd.android.cursor.item/im</item>
+        <item>vnd.android.cursor.item/sip_address</item>
+        <item>vnd.android.cursor.item/contact_event</item>
+        <item>vnd.android.cursor.item/website</item>
+        <item>vnd.android.cursor.item/postal-address_v2</item>
+        <item>vnd.android.cursor.item/note</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 segundo</item>
+        <item>2 segundos</item>
+        <item>3 segundos</item>
+        <item>4 segundos</item>
+        <item>5 segundos</item>
+        <item>6 segundos</item>
+        <item>7 segundos</item>
+        <item>8 segundos</item>
+        <item>9 segundos</item>
+        <item>10 segundos</item>
+        <item>Outro</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Sempre</item>
+        <item>Apenas no silencioso</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+</resources>
